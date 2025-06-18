@@ -1,0 +1,1 @@
+// Webcam check component
