@@ -1,0 +1,27 @@
+
+# Node modules
+node_modules/
+client/node_modules/
+server/node_modules/
+
+# Build output
+dist/
+build/
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env
+.env.local
+
+# SSL certs or private keys
+server/cert/
+
+# IDE settings
+.vscode/
+.idea/
